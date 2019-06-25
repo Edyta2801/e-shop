@@ -9,4 +9,12 @@
   object-fit: cover;
 }
 
+.col-lg-3 {
+  background: gray;
+}
+
+.col-lg-9 {
+  background: red;
+}
+
 /*# sourceMappingURL=style.css.map */
