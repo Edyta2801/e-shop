@@ -30,4 +30,9 @@
   font-size: 30px;
 }
 
+.services .col-md-4:first-child {
+  height: 100px;
+  background: green;
+}
+
 /*# sourceMappingURL=style.css.map */
