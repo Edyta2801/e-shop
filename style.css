@@ -15,4 +15,9 @@
   object-fit: cover;
 }
 
+.card-img {
+  height: 40vh;
+  object-fit: cover;
+}
+
 /*# sourceMappingURL=style.css.map */
