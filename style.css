@@ -20,4 +20,14 @@
   object-fit: cover;
 }
 
+.w-100 {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.ideas .card-title {
+  color: white;
+  font-size: 30px;
+}
+
 /*# sourceMappingURL=style.css.map */
