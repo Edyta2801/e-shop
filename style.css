@@ -62,4 +62,9 @@
   color: black;
 }
 
+.contact .card-body {
+  border-style: none;
+  background: #eff2f5;
+}
+
 /*# sourceMappingURL=style.css.map */
