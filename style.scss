@@ -9,6 +9,16 @@
   height: 100%;
   object-fit: cover;
 }
+.carousel-caption {
+  right: auto;
+  bottom: auto;
+  padding-bottom: 0;
+  padding-top: 0;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
 
 .card-img-top {
   width: 100%;
@@ -84,6 +94,9 @@
 }
 
 /* Footer */
-.footer{
-  background: #CCFFFF;
+.footer {
+  background: #ccffff;
 }
+
+
+
