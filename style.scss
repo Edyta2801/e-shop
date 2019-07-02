@@ -32,15 +32,22 @@
 //   height: 100px;
 //   background: green;
 // }
+
+
+/* Contact */
 .contact {
   background: #eff2f5;
+}
+
+.contact .card-subtitle{
+  margin-top:20px;
 }
 .contact ul {
   height: 100%;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-  align-items:flex-start;
+  align-items: flex-start;
   padding: 0;
 }
 
@@ -56,14 +63,16 @@
   font-size: 0;
   display: flex;
   padding: 10px 10px 10px 0;
-
 }
 .contact i {
   font-size: 16px;
   color: black;
-  
 }
-.contact .card-body{
+.contact .card-body {
   border-style: none;
-  background:  #eff2f5;
+  background: #eff2f5;
+}
+.contact .card-link {
+  color:blue;
+  font-size: 16px;
 }
