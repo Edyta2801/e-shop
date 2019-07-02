@@ -33,14 +33,13 @@
 //   background: green;
 // }
 
-
 /* Contact */
 .contact {
   background: #eff2f5;
 }
 
-.contact .card-subtitle{
-  margin-top:20px;
+.contact .card-subtitle {
+  margin-top: 20px;
 }
 .contact ul {
   height: 100%;
@@ -71,12 +70,15 @@
 .contact .card-body {
   border-style: none;
   background: #eff2f5;
-  padding:0;
+  padding: 0;
 }
 .contact .card-link {
-  color:blue;
+  color: blue;
   font-size: 16px;
 }
-.contact .form-group h6{
-  font-size:20px;
+.contact .card-link:hover {
+  text-decoration: underline;
+}
+.contact .form-group h6 {
+  font-size: 20px;
 }

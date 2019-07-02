@@ -78,6 +78,10 @@
   font-size: 16px;
 }
 
+.contact .card-link:hover {
+  text-decoration: underline;
+}
+
 .contact .form-group h6 {
   font-size: 20px;
 }
