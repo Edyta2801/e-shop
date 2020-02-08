@@ -1,1 +1,1 @@
-https://edyta2801.github.io/e-shop/
+https://edyta2801.github.io/e-shop-layout/
