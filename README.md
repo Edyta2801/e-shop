@@ -1,6 +1,5 @@
 
-
-# [E-shop layout] (https://edyta2801.github.io/e-shop-layout/)
+# E-shop layout
 > Responsive layout e-clothing store.
 
 
